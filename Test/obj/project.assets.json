@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nour\\source\\repos\\Test\\Test\\Test.csproj",
-      "projectName": "Test",
-      "projectPath": "C:\\Users\\Nour\\source\\repos\\Test\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\Nour\\source\\repos\\Test\\Test\\Calculates-the-monthly-salary-slip.csproj",
+      "projectName": "Calculates-the-monthly-salary-slip",
+      "projectPath": "C:\\Users\\Nour\\source\\repos\\Test\\Test\\Calculates-the-monthly-salary-slip.csproj",
       "packagesPath": "C:\\Users\\Nour\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Nour\\source\\repos\\Test\\Test\\obj\\",
       "projectStyle": "PackageReference",

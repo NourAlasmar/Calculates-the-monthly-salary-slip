@@ -1,0 +1,15 @@
+C:\Users\Nour\source\repos\Test\Test\bin\Debug\net6.0\Calculates-the-monthly-salary-slip.exe
+C:\Users\Nour\source\repos\Test\Test\bin\Debug\net6.0\Calculates-the-monthly-salary-slip.deps.json
+C:\Users\Nour\source\repos\Test\Test\bin\Debug\net6.0\Calculates-the-monthly-salary-slip.runtimeconfig.json
+C:\Users\Nour\source\repos\Test\Test\bin\Debug\net6.0\Calculates-the-monthly-salary-slip.dll
+C:\Users\Nour\source\repos\Test\Test\bin\Debug\net6.0\Calculates-the-monthly-salary-slip.pdb
+C:\Users\Nour\source\repos\Test\Test\obj\Debug\net6.0\Calculates-the-monthly-salary-slip.csproj.AssemblyReference.cache
+C:\Users\Nour\source\repos\Test\Test\obj\Debug\net6.0\Calculates-the-monthly-salary-slip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nour\source\repos\Test\Test\obj\Debug\net6.0\Calculates-the-monthly-salary-slip.AssemblyInfoInputs.cache
+C:\Users\Nour\source\repos\Test\Test\obj\Debug\net6.0\Calculates-the-monthly-salary-slip.AssemblyInfo.cs
+C:\Users\Nour\source\repos\Test\Test\obj\Debug\net6.0\Calculates-the-monthly-salary-slip.csproj.CoreCompileInputs.cache
+C:\Users\Nour\source\repos\Test\Test\obj\Debug\net6.0\Calculates-the-monthly-salary-slip.dll
+C:\Users\Nour\source\repos\Test\Test\obj\Debug\net6.0\refint\Calculates-the-monthly-salary-slip.dll
+C:\Users\Nour\source\repos\Test\Test\obj\Debug\net6.0\Calculates-the-monthly-salary-slip.pdb
+C:\Users\Nour\source\repos\Test\Test\obj\Debug\net6.0\Calculates-the-monthly-salary-slip.genruntimeconfig.cache
+C:\Users\Nour\source\repos\Test\Test\obj\Debug\net6.0\ref\Calculates-the-monthly-salary-slip.dll
