@@ -53,8 +53,8 @@
                     + $"\nName :  {Name}"
                     + $"\nLogged Houres : {LoggedHoures :N0} hrs"
                     + $"\nWage : {Wage :N0}/hr"
-                    + $"\nBaseSalary ${CalculateBaseSalary():N0}"
-                    + $"\nOver Time ${CalculateOverTime():N0}";
+                    + $"\nBaseSalary : ${CalculateBaseSalary():N0}"
+                    + $"\nOver Time :  ${CalculateOverTime():N0}";
             }
         }
 
